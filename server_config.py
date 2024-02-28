@@ -1,0 +1,14 @@
+WIDTH = 800
+HEIGHT = 600
+data_client = '50/50'
+rack_client = '50/50'
+rack_length = 100
+rx = 200
+ry = 200
+r2x = 600
+r2y = 300
+rx1 = 200
+ry1 = 200
+r2x1 = 600
+r2y1 = 300
+limit_score = 9
